@@ -1,0 +1,45 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/CourierPrime-Regular.ttf",
+      "sha1": "f0e110c73ff02b2fc7f60bd96697c42ee9730ae2"
+    },
+    {
+      "path": "assets/fonts/DancingScript-VariableFont_wght.ttf",
+      "sha1": "80f13e7575ec59a51b7fdc42bb0b9d7a34439123"
+    },
+    {
+      "path": "assets/fonts/Ephesis-Regular.ttf",
+      "sha1": "86e2f73bf8d38e64ffd4455dab15e436957b0c8e"
+    },
+    {
+      "path": "assets/fonts/Kalam-Regular.ttf",
+      "sha1": "8780563680372a86968c46c50cba05143654fe49"
+    },
+    {
+      "path": "assets/fonts/OoohBaby-Regular.ttf",
+      "sha1": "3997e4695803070117a273ae4524ad14b4e2d657"
+    },
+    {
+      "path": "assets/fonts/Poppins-Regular.ttf",
+      "sha1": "fdd3002e7d814ee47c1c1b8487c72c6bbb3a2d00"
+    },
+    {
+      "path": "assets/fonts/Sacramento-Regular.ttf",
+      "sha1": "bb942772a1f61c2f6cc0f980a9da39f1fc602d00"
+    },
+    {
+      "path": "assets/fonts/SourceCodePro-VariableFont_wght.ttf",
+      "sha1": "9ce704281ee7f2eaaceea2ac5e55964105c8a5ff"
+    },
+    {
+      "path": "assets/fonts/Ubuntu-Regular.ttf",
+      "sha1": "8238e55f0320c3abc74057c988367c2f25fa3727"
+    },
+    {
+      "path": "assets/fonts/WorkSans-VariableFont_wght.ttf",
+      "sha1": "5a5c31a7166d40d51d018daed7c654cb34d641a6"
+    }
+  ]
+}
